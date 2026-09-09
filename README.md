@@ -1,6 +1,8 @@
-# Browser-based OSINT tool for finding and exporting the oldest posts from Instagram profiles
+# Instagram Oldest Posts
 
-Small browser-console scripts for loading a public Instagram profile timeline, finding the oldest available posts, and exporting the results to CSV.
+Instagram Oldest Posts is a browser-based OSINT tool for collecting the full available post history of an Instagram profile and exporting it to CSV.
+
+It is especially useful for large profiles with thousands of posts, where manually scrolling back through years of content is slow and impractical. The tool retrieves posts through Instagram's timeline pagination, collects the available publication history, and sorts it by date. This makes it possible to quickly access very old posts as well as analyze the profile's complete available timeline.
 
 ## Usage
 
